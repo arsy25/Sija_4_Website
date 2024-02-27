@@ -6183,6 +6183,7 @@ fieldset:disabled .btn {
 .navbar-brand {
     padding-top: 0;
     padding-bottom: 0;
+    
     margin-right: 0;
     font-size: 1rem;
     white-space: nowrap
